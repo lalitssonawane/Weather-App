@@ -61,4 +61,4 @@ document
     }
   });
 
-weather.fetchWeather("Nagpur");
+weather.fetchWeather("Pune");
